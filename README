@@ -1,0 +1,15 @@
+Nombre: WuiboEE30 v1.o
+Autor: wuibo <asayasn11@gmail.com>
+Puesto: BG98
+Licencia: Dominio Público
+
+
+Requisitos:
+	# apt-get install gcc
+
+Compilación
+	$ cd src
+	$ make
+
+Uso:
+$ wuibo/src/wuibo
